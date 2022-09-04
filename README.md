@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+
+
 
 
 ## I AM A TRUE CRYPTO ENTHUSIAST! 
@@ -16,8 +19,8 @@
   </a>
 <br /><br />
 
-
 <img align="right" alt="JPEG" src="https://user-images.githubusercontent.com/79307419/188294971-4b3aef8f-8310-4ae0-940a-526f07dee520.png" width="375" height="375" />
+
 
 
 Work full day and night! Like helping projects and the crypto community!
@@ -45,6 +48,8 @@ For the Russian-speaking community. To increase audience, engagement and accessi
 Thus, we help three parties to be useful (for personal growth, for the project and for the community)!
 
 ## I HAVE CONTRIBUTED TO THE FOLLOWING PROJECTS, CLICK TO SEE IT!
+
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188337751-14d94b9a-47c0-4e32-b18e-5de1834cf6c4.gif" width="375" height="375" />
 
 - [Agoric](https://github.com/Vagif85/My-Contributions/blob/main/Agoric.md)
 - [Axelar](https://github.com/Vagif85/My-Contributions/blob/main/Axelar.md)
