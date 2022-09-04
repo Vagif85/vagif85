@@ -15,8 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I AM A TRUE CRYPTO ENTHUSIAST! 
+<a href="https://t.me/All_TimeHigh">
+
+<img align="left" alt="Telegram" width="50px" src="https://user-images.githubusercontent.com/79307419/188335340-3cf426e5-6772-4435-8844-503c81c30965.png" />
+</a>
+</a>
+
+<a href="https://t.me/All_TimeHigh_chat">
+
+<img align="left" alt="Telegram" width="50px" src="https://user-images.githubusercontent.com/79307419/188335508-a3fbb1f3-4d9e-4677-ae5a-e1a774c4ccde.png" />
+  </a>
+<br /><br />
 
 <img align="right" alt="JPEG" src="https://user-images.githubusercontent.com/79307419/188294971-4b3aef8f-8310-4ae0-940a-526f07dee520.png" width="375" height="375" />
+
 
 Work full day and night! Like helping projects and the crypto community!
 
