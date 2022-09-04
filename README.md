@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.youtube.com/channel/UCcqGqtgwWS4mCRfS-VRofpA">
-<img align="left" alt="Youtube" width="45px" src="https://user-images.githubusercontent.com/79307419/188335911-f5a3477a-b985-4c4b-99b1-1e4e0c2c9498.png" />
+<img align="left" alt="Youtube" width="44px" src="https://user-images.githubusercontent.com/79307419/188335911-f5a3477a-b985-4c4b-99b1-1e4e0c2c9498.png" />
   </a>
 <br /><br />
 
