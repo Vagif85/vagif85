@@ -1,9 +1,6 @@
 
 
 
-
-
-
 ## I AM A TRUE CRYPTO ENTHUSIAST! 
 <a href="https://t.me/All_TimeHigh">
 
@@ -49,7 +46,7 @@ Thus, we help three parties to be useful (for personal growth, for the project a
 
 ## I HAVE CONTRIBUTED TO THE FOLLOWING PROJECTS, CLICK TO SEE IT!
 
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188337751-14d94b9a-47c0-4e32-b18e-5de1834cf6c4.gif" width="375" height="375" />
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188338529-784fcd8d-e527-4829-87c3-4a98cf16f8cf.gif" width="375" height="375" />
 
 - [Agoric](https://github.com/Vagif85/My-Contributions/blob/main/Agoric.md)
 - [Axelar](https://github.com/Vagif85/My-Contributions/blob/main/Axelar.md)
