@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 ## I AM A TRUE CRYPTO ENTHUSIAST! 
 <a href="https://t.me/All_TimeHigh">
 
-<img align="left" alt="Telegram" width="50px" src="https://user-images.githubusercontent.com/79307419/188336234-261c58b5-039c-4f49-a31f-b9ef4e05ce10.png" />
+<img align="left" alt="Telegram" width="45px" src="https://user-images.githubusercontent.com/79307419/188336234-261c58b5-039c-4f49-a31f-b9ef4e05ce10.png" />
 </a>
 </a>
 <a href="https://t.me/All_TimeHigh_chat">
-<img align="left" alt="Telegram" width="50px" src="https://user-images.githubusercontent.com/79307419/188336268-4008df46-dcfd-46da-ac7c-42ac264f9e50.png" />
+<img align="left" alt="Telegram" width="45px" src="https://user-images.githubusercontent.com/79307419/188336268-4008df46-dcfd-46da-ac7c-42ac264f9e50.png" />
 </a>
 </a>
 <a href="https://www.youtube.com/channel/UCcqGqtgwWS4mCRfS-VRofpA">
-<img align="left" alt="Youtube" width="30px" src="https://user-images.githubusercontent.com/79307419/188335911-f5a3477a-b985-4c4b-99b1-1e4e0c2c9498.png" />
+<img align="left" alt="Youtube" width="45px" src="https://user-images.githubusercontent.com/79307419/188335911-f5a3477a-b985-4c4b-99b1-1e4e0c2c9498.png" />
   </a>
 <br /><br />
 
