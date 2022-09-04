@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ## I AM A TRUE CRYPTO ENTHUSIAST! 
 <a href="https://t.me/All_TimeHigh">
 
-<img align="left" alt="Telegram" width="50px" src="https://user-images.githubusercontent.com/79307419/188335340-3cf426e5-6772-4435-8844-503c81c30965.png" />
+<img align="left" alt="Telegram" width="40px" src="https://user-images.githubusercontent.com/79307419/188335340-3cf426e5-6772-4435-8844-503c81c30965.png" />
 </a>
 </a>
 
 <a href="https://t.me/All_TimeHigh_chat">
 
-<img align="left" alt="Telegram" width="50px" src="https://user-images.githubusercontent.com/79307419/188335508-a3fbb1f3-4d9e-4677-ae5a-e1a774c4ccde.png" />
+<img align="left" alt="Telegram" width="40px" src="https://user-images.githubusercontent.com/79307419/188335508-a3fbb1f3-4d9e-4677-ae5a-e1a774c4ccde.png" />
   </a>
 <br /><br />
 
