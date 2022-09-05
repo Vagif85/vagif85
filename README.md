@@ -20,6 +20,7 @@
 
 
 
+
 Work full day and night! Like helping projects and the crypto community!
 
 I take part in projects that radically change the direction of cryptography.
@@ -46,7 +47,7 @@ Thus, we help three parties to be useful (for personal growth, for the project a
 
 ## I HAVE CONTRIBUTED TO THE FOLLOWING PROJECTS, CLICK TO SEE IT!
 
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188338529-784fcd8d-e527-4829-87c3-4a98cf16f8cf.gif" width="375" height="375" />
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188338586-d0b95047-3a2c-4002-a563-ee566b76c4e3.gif" />
 
 - [Agoric](https://github.com/Vagif85/My-Contributions/blob/main/Agoric.md)
 - [Axelar](https://github.com/Vagif85/My-Contributions/blob/main/Axelar.md)
