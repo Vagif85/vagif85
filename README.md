@@ -21,11 +21,12 @@
 </a>
 </a>
 <a href="https://medium.com/@babaevnizamov">
-<img align="left" alt="Medium" width="200px" src="https://user-images.githubusercontent.com/79307419/188343204-5052523f-cb19-4406-94af-7d653d080a8d.png" />
+<img align="left" alt="Medium" width="200px" src="https://user-images.githubusercontent.com/79307419/188343446-66f0aaa1-1a0c-46d5-b989-614197e75a14.png" />
   </a>
 <br /><br />
 
 <img align="right" alt="JPEG" src="https://user-images.githubusercontent.com/79307419/188294971-4b3aef8f-8310-4ae0-940a-526f07dee520.png" width="375" height="375" />
+
 
 
 
