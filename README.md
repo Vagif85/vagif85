@@ -47,7 +47,7 @@ Thus, we help three parties to be useful (for personal growth, for the project a
 
 ## I HAVE CONTRIBUTED TO THE FOLLOWING PROJECTS, CLICK TO SEE IT!
 
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188338586-d0b95047-3a2c-4002-a563-ee566b76c4e3.gif" />
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188338586-d0b95047-3a2c-4002-a563-ee566b76c4e3.gif" width="300" height="556" />
 
 - [Agoric](https://github.com/Vagif85/My-Contributions/blob/main/Agoric.md)
 - [Axelar](https://github.com/Vagif85/My-Contributions/blob/main/Axelar.md)
