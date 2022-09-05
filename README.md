@@ -1,7 +1,8 @@
 
+![I3uXM-2](https://user-images.githubusercontent.com/79307419/188340257-2cbc2c61-2bdb-4707-a2e1-456ecfd7a609.gif)
 
 
-## I AM A TRUE CRYPTO ENTHUSIAST! 
+## I AM A TRUE CRYPTO ENTHUSIAST!
 <a href="https://t.me/All_TimeHigh">
 
 <img align="left" alt="Telegram" width="45px" src="https://user-images.githubusercontent.com/79307419/188336234-261c58b5-039c-4f49-a31f-b9ef4e05ce10.png" />
@@ -47,7 +48,8 @@ Thus, we help three parties to be useful (for personal growth, for the project a
 
 ## I HAVE CONTRIBUTED TO THE FOLLOWING PROJECTS, CLICK TO SEE IT!
 
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188338586-d0b95047-3a2c-4002-a563-ee566b76c4e3.gif" width="300" height="556" />
+
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/79307419/188341697-3776daf1-3049-4e63-8276-89d558e150e2.gif" />
 
 - [Agoric](https://github.com/Vagif85/My-Contributions/blob/main/Agoric.md)
 - [Axelar](https://github.com/Vagif85/My-Contributions/blob/main/Axelar.md)
