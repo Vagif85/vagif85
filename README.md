@@ -22,10 +22,15 @@
 </a>
 <a href="https://medium.com/@babaevnizamov">
 <img align="left" alt="Medium" width="200px" src="https://user-images.githubusercontent.com/79307419/188343446-66f0aaa1-1a0c-46d5-b989-614197e75a14.png" />
+</a>
+</a>
+<a href="https://discord.com/channels/745382242326413442/804389889466564668/930275553712410624">
+<img align="left" alt="DISCORD" width="200px" src="https://user-images.githubusercontent.com/79307419/188345463-b52f7499-1920-4f20-b8f5-18102a1bb0ea.png" />
   </a>
 <br /><br />
 
 <img align="right" alt="JPEG" src="https://user-images.githubusercontent.com/79307419/188294971-4b3aef8f-8310-4ae0-940a-526f07dee520.png" width="375" height="375" />
+
 
 
 
