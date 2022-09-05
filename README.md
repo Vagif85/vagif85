@@ -12,8 +12,16 @@
 <img align="left" alt="Telegram" width="45px" src="https://user-images.githubusercontent.com/79307419/188336268-4008df46-dcfd-46da-ac7c-42ac264f9e50.png" />
 </a>
 </a>
+<a href="https://twitter.com/vagifbn">
+<img align="left" alt="Twitter" width="45px" src="https://user-images.githubusercontent.com/79307419/188342336-85b85814-64ff-490e-b36e-3f60606f4a2f.png" />
+</a>
+</a>
 <a href="https://www.youtube.com/channel/UCcqGqtgwWS4mCRfS-VRofpA">
 <img align="left" alt="Youtube" width="45px" src="https://user-images.githubusercontent.com/79307419/188335911-f5a3477a-b985-4c4b-99b1-1e4e0c2c9498.png" />
+</a>
+</a>
+<a href="https://medium.com/@babaevnizamov">
+<img align="left" alt="Medium" width="200px" src="https://user-images.githubusercontent.com/79307419/188343204-5052523f-cb19-4406-94af-7d653d080a8d.png" />
   </a>
 <br /><br />
 
