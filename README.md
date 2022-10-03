@@ -91,7 +91,7 @@ In the technical part, I keep nodes and am also a Validator in various projects 
 Solana, Casper, FORTA, NYM.
 
 ## Active Testnet:
-Starknet, Transformers, Minima, Bitcountry, SubSocial, Masa, Massa, Celestia, SUBSPACE, Obol.
+Starknet, Transformers, Minima, Bitcountry, SubSocial, Masa, Massa, Celestia, SUBSPACE, Obol, OLLO.
 
 ## Archive testnet:
 Moonbeam, Spacemesh, Ironfish, Vega, Zeitgeist, HydraDX, Omniflix, Evmos, Hopr, KiChain, SubQuery, Kive, Aleo, Axelar, Archway, Joystream.
