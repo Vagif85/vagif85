@@ -1,8 +1,8 @@
 
 ![I3uXM-2](https://user-images.githubusercontent.com/79307419/188340257-2cbc2c61-2bdb-4707-a2e1-456ecfd7a609.gif)
-
- 
-
+                                                                     
+                                                                                     
+                                                                                             
 <a href="https://t.me/All_TimeHigh">
 
 <img align="left" alt="Telegram" width="45px" src="https://user-images.githubusercontent.com/79307419/188336234-261c58b5-039c-4f49-a31f-b9ef4e05ce10.png" />
