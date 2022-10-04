@@ -27,7 +27,7 @@
 <a href="https://discord.com/channels/745382242326413442/804389889466564668/930275553712410624">
 <img align="left" alt="DISCORD" width="200px" src="https://user-images.githubusercontent.com/79307419/188345463-b52f7499-1920-4f20-b8f5-18102a1bb0ea.png" />
   </a>
-<br /><br />
+<br /><br /> 
 
 ## I AM A TRUE CRYPTO ENTHUSIAST!
 
