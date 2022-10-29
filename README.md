@@ -96,10 +96,10 @@ Thus, we help three parties to be useful (for personal growth, for the project a
 
 In the technical part, I keep nodes and am also a Validator in various projects I have a lot of experience of participating in testnet and mainnet in projects such as:
 ## Mainnet:
-Solana, Casper, FORTA, NYM.
+Solana, JoyStream, Casper, Forta, Nym, Canto, Lambda, Genesis L1.
 
 ## Active Testnet:
-Starknet, Transformers, Minima, Bitcountry, SubSocial, Masa, Massa, Celestia, SUBSPACE, Obol, OLLO.
+Solana, Mande, DeFunde, Starknet, Transformers, Minima, Masa, Massa, Celestia, SubSocial, Subspace, Obol.
 
 ## Archive testnet:
 Moonbeam, Spacemesh, Ironfish, Vega, Zeitgeist, HydraDX, Omniflix, Evmos, Hopr, KiChain, SubQuery, Kive, Aleo, Axelar, Archway, Joystream.
