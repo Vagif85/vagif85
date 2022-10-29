@@ -24,15 +24,15 @@
 </a>
 </a>
 <a href="https://vagif.pro">
-<img align="left" alt="Telegram" width="200px" src="https://user-images.githubusercontent.com/79307419/198849529-c35360e5-8b4f-4618-b252-4a8bf4dda27f.png" />
+<img align="left" alt="Telegram" width="150px" src="https://user-images.githubusercontent.com/79307419/198849529-c35360e5-8b4f-4618-b252-4a8bf4dda27f.png" />
 </a>
 </a>
 <a href="https://medium.com/@babaevnizamov">
-<img align="left" alt="Medium" width="200px" src="https://user-images.githubusercontent.com/79307419/188343446-66f0aaa1-1a0c-46d5-b989-614197e75a14.png" />
+<img align="left" alt="Medium" width="150px" src="https://user-images.githubusercontent.com/79307419/188343446-66f0aaa1-1a0c-46d5-b989-614197e75a14.png" />
 </a>
 </a>
 <a href="https://discord.com/users/749974373632442418">
-<img align="left" alt="DISCORD" width="200px" src="https://user-images.githubusercontent.com/79307419/188345463-b52f7499-1920-4f20-b8f5-18102a1bb0ea.png" />
+<img align="left" alt="DISCORD" width="150px" src="https://user-images.githubusercontent.com/79307419/188345463-b52f7499-1920-4f20-b8f5-18102a1bb0ea.png" />
   </a>
 <br /><br /> 
 
