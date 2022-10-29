@@ -1,8 +1,11 @@
 
 ![I3uXM-2](https://user-images.githubusercontent.com/79307419/188340257-2cbc2c61-2bdb-4707-a2e1-456ecfd7a609.gif)
-                                                                     
+                          
+        
+          
+
                                                                                      
-                                                                                             
+
 <a href="https://t.me/All_TimeHigh">
 
 <img align="left" alt="Telegram" width="45px" src="https://user-images.githubusercontent.com/79307419/188336234-261c58b5-039c-4f49-a31f-b9ef4e05ce10.png" />
@@ -20,6 +23,10 @@
 <img align="left" alt="Youtube" width="45px" src="https://user-images.githubusercontent.com/79307419/188335911-f5a3477a-b985-4c4b-99b1-1e4e0c2c9498.png" />
 </a>
 </a>
+<a href="https://vagif.pro">
+<img align="left" alt="Telegram" width="200px" src="https://user-images.githubusercontent.com/79307419/198849529-c35360e5-8b4f-4618-b252-4a8bf4dda27f.png" />
+</a>
+</a>
 <a href="https://medium.com/@babaevnizamov">
 <img align="left" alt="Medium" width="200px" src="https://user-images.githubusercontent.com/79307419/188343446-66f0aaa1-1a0c-46d5-b989-614197e75a14.png" />
 </a>
@@ -32,6 +39,7 @@
 ## I AM A TRUE CRYPTO ENTHUSIAST!
 
 <img align="right" alt="JPEG" src="https://user-images.githubusercontent.com/79307419/188294971-4b3aef8f-8310-4ae0-940a-526f07dee520.png" width="375" height="375" />
+
 
 
 
