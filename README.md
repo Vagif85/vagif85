@@ -24,7 +24,7 @@
 <img align="left" alt="Medium" width="200px" src="https://user-images.githubusercontent.com/79307419/188343446-66f0aaa1-1a0c-46d5-b989-614197e75a14.png" />
 </a>
 </a>
-<a href="https://discord.com/user/749974373632442418">
+<a href="https://discord.com/users/749974373632442418">
 <img align="left" alt="DISCORD" width="200px" src="https://user-images.githubusercontent.com/79307419/188345463-b52f7499-1920-4f20-b8f5-18102a1bb0ea.png" />
   </a>
 <br /><br /> 
